@@ -24,8 +24,16 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
+      "filepath": "Tags.md",
+      "timestamp": 1708622110463
+    },
+    {
+      "filepath": "Features.md",
+      "timestamp": 1708622109591
+    },
+    {
       "filepath": "Phonetic Inventory.md",
-      "timestamp": 1708622069441
+      "timestamp": 1708622109052
     },
     {
       "filepath": "Lexicon/Words/0 - we.md",
@@ -34,16 +42,12 @@
     {
       "filepath": "Lexicon/Words/zykre.md",
       "timestamp": 1708622068124
-    },
-    {
-      "filepath": "Lexicon/Words/0 - they (s).md",
-      "timestamp": 1708622067229
     }
   ],
   "starredFileStore": [],
   "searchDelay": 0,
   "replaceNewTabs": true,
   "newTabOnStart": true,
-  "closePreviousSessionTabs": false,
+  "closePreviousSessionTabs": true,
   "omnisearch": false
 }
