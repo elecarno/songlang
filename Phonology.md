@@ -17,7 +17,7 @@
 | r | (spanish tapped r) |ɾ|
 | t | (spanish tapped t) |t|
 | u | lag**oo**n |u|
-| w | **w**endigo |w|
+| w | **w**olf |w|
 |y|s**ee**n (short)|i|
 | z | **th**orn |θ|
 
