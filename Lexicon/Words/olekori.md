@@ -5,6 +5,6 @@ to organise
 ***
 ```mermaid
 graph LR
-A(category) --->|ekori| C(olekori)
-B(order) --->|ol|C
+A(category <sub>en</sub>) --->|ekori| C(olekori)
+B(order <sub>en</sub>) --->|ol|C
 ```

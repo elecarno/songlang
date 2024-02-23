@@ -1,0 +1,5 @@
+#adjective
+
+smooth
+unhindered
+unaffected
