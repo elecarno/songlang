@@ -1,4 +1,4 @@
-#verb 
+#verb
 
 *opposite of [[kalne]]*
 

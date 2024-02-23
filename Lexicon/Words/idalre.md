@@ -1,4 +1,4 @@
-#pronoun 
+#pronoun #root 
 
 they, *pl*
 ***

@@ -1,4 +1,4 @@
-#pronoun 
+#pronoun #root
 
 we
 us

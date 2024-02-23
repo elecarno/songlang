@@ -1,4 +1,4 @@
-#noun 
+#noun
 
 something that is dying
 
