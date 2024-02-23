@@ -1,4 +1,4 @@
-#pronoun #io
+#pronoun #root
 
 I
 me

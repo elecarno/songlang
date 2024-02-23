@@ -17,18 +17,18 @@
 | r | (spanish tapped r) |ɾ|
 | t | (spanish tapped t) |t|
 | u | lag**oo**n |u|
-| w | **w**endigo |w|
+| w | **w**olf |w|
 |y|s**ee**n (short)|i|
 | z | **th**orn |θ|
 
 ### IPA
-|Labial|  Dental | Alveolar  |   |  Retroflex |Post-Alveolar| Velar  |   | Uvular  |Glottal|
-|---|---|---|---|---|---|---|---|---|---|
-|Stop|b||t|d|||k|g|||
-|Fricative||θ|||||||||
-|Affricate|||||||||||
-|Nasal|m||n||||||||
-|Liquid|||ɾ|l|||w||||
+|Labial|  Dental | Alveolar  |   |  Retroflex | Velar   | Uvular  |
+|---|---|---|---|---|---|---|
+|Stop|b||t|d|k|g||
+|Fricative||θ||||||
+|Affricate||||||||
+|Nasal|m||n|||||
+|Liquid|||ɾ|l|w|||
 
 | |Front|Central|Back|
 |---|---|---|---|
