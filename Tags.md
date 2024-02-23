@@ -1,3 +1,5 @@
+#docs
+
 List of tags used in the vault.
 
 `#noun`

@@ -1,3 +1,5 @@
+#docs 
+
 ### Alphabet
 | Symbol | Approximate | IPA |
 | ---- | ---- | ---- |
@@ -35,7 +37,6 @@
 |Low||a||
 
 ### Construction
-- Stress is placed on the third syllable, unless the word contains only two syllables in which case the stress is placed on the last syllable.
 - Permitted codas:
   - Songlang - b, k, l, t, m, n
   - IPA - /b/, /k/, /l/, /t/, /m/, /n/

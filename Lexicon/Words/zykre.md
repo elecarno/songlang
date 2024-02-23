@@ -1,9 +1,9 @@
 #pronoun 
 
-you, *plural*
+you, *pl*
 
 ***
 *"you cannot die"*
 *"zykure ---"*
 ***
-plural form of [[zyku]]
+*pl* [[zyku]]

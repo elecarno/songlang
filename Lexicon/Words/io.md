@@ -1,6 +1,7 @@
 #pronoun 
 
-I, *singular first person*
+I
+me
 
 ***
 *"I don't know"*
