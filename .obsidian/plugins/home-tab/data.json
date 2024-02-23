@@ -24,24 +24,24 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
+      "filepath": "Lexicon/Words/human.md",
+      "timestamp": 1708721260067
+    },
+    {
+      "filepath": "Lexicon/Words/yente.md",
+      "timestamp": 1708721254710
+    },
+    {
+      "filepath": "Lexicon/Words/zinlit.md",
+      "timestamp": 1708721009711
+    },
+    {
       "filepath": "Lexicon/Words/lin.md",
       "timestamp": 1708720955825
     },
     {
       "filepath": "Tags.md",
       "timestamp": 1708720949926
-    },
-    {
-      "filepath": "Syntax & Grammar.md",
-      "timestamp": 1708720946460
-    },
-    {
-      "filepath": "Lexicon/Words/linayt.md",
-      "timestamp": 1708720818798
-    },
-    {
-      "filepath": "Lexicon/Words/linzye.md",
-      "timestamp": 1708720736011
     }
   ],
   "starredFileStore": [],
