@@ -14,7 +14,7 @@
   "fontWeight": 600,
   "maxResults": 5,
   "showStarredFiles": false,
-  "showRecentFiles": false,
+  "showRecentFiles": true,
   "maxRecentFiles": 5,
   "storeRecentFile": true,
   "showPath": true,
@@ -25,23 +25,23 @@
   "recentFilesStore": [
     {
       "filepath": "Lexicon/Words/Untitled.md",
-      "timestamp": 1708702093112
+      "timestamp": 1708716546749
     },
     {
-      "filepath": "Lexicon/Words/ele.md",
-      "timestamp": 1708702056006
+      "filepath": "Lexicon/Words/eyrmu.md",
+      "timestamp": 1708716471987
     },
     {
-      "filepath": "Lexicon/Words/ale.md",
-      "timestamp": 1708702055635
+      "filepath": "Phonology.md",
+      "timestamp": 1708716469796
     },
     {
-      "filepath": "Lexicon/Words/alate.md",
-      "timestamp": 1708702052084
+      "filepath": "Lexicon/Words/ala.md",
+      "timestamp": 1708716387090
     },
     {
-      "filepath": "Lexicon/Words/idalre.md",
-      "timestamp": 1708702050257
+      "filepath": "Lexicon/Words/anele.md",
+      "timestamp": 1708716384873
     }
   ],
   "starredFileStore": [],
