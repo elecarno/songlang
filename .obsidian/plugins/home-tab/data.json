@@ -24,7 +24,11 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
-      "filepath": "Untitled.md",
+      "filepath": "Phonology.md",
+      "timestamp": 1708728845141
+    },
+    {
+      "filepath": "Example Sentences.md",
       "timestamp": 1708726169420
     },
     {
@@ -38,10 +42,6 @@
     {
       "filepath": "Lexicon/Words/imyu.md",
       "timestamp": 1708725954808
-    },
-    {
-      "filepath": "Lexicon/Words/lande.md",
-      "timestamp": 1708725951512
     }
   ],
   "starredFileStore": [],
