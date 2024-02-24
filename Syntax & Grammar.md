@@ -18,6 +18,17 @@ Word Order:
 
 Recent Past Perfect is marked with "just"
 
+All verbs end in a vowel, suffix replaces this vowel. For conjugated verbs, there are four different conjugations. One for the pronoun I/me, one for the singular pronouns, one for the plural pronouns, and one for the impersonal.
+
+**Tense Conjugations**|Songlang Pronoun|
+--|--
+I / me|[[io]]
+you *(s)*<br>they / it<br>they *(s/f)*<br>they *(s/m)*|[[zyku]]<br>[[idale]]<br>[[idalya]]<br>[[idazyry]]
+we / us<br>you *(pl)*<br>they *(pl)*|[[nolyo]]<br>[[zykre]]<br>[[idalre]]
+one *(s)*|[[alate]]
+
+
+
 ##### Valency
 - Passive: Aux verb "to be"
 - Active: Aux verb "to command"
