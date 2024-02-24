@@ -1,6 +1,7 @@
 {
-  "accentColor": "",
+  "accentColor": "#959165",
   "theme": "obsidian",
   "interfaceFontFamily": "Lora",
-  "textFontFamily": "Lora"
+  "textFontFamily": "Lora",
+  "cssTheme": ""
 }
