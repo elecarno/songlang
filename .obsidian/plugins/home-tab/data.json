@@ -24,6 +24,10 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
+      "filepath": "Phonology.md",
+      "timestamp": 1708722672509
+    },
+    {
       "filepath": "Key Words.md",
       "timestamp": 1708722629123
     },
@@ -38,10 +42,6 @@
     {
       "filepath": "Lexicon/Words/ala.md",
       "timestamp": 1708722609049
-    },
-    {
-      "filepath": "Lexicon/Words/ale.md",
-      "timestamp": 1708722603576
     }
   ],
   "starredFileStore": [],
