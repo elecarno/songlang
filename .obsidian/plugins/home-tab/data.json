@@ -24,24 +24,24 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
+      "filepath": "Example Sentences.md",
+      "timestamp": 1708784785799
+    },
+    {
       "filepath": "Syntax & Grammar.md",
-      "timestamp": 1708784136797
+      "timestamp": 1708784782275
     },
     {
       "filepath": "Lexicon/Words/zerome.md",
-      "timestamp": 1708784133031
-    },
-    {
-      "filepath": "Lexicon/Words/oredeze.md",
-      "timestamp": 1708784088576
+      "timestamp": 1708784298723
     },
     {
       "filepath": "Phonology.md",
-      "timestamp": 1708784086688
+      "timestamp": 1708784298095
     },
     {
-      "filepath": "Lexicon/Words/ezere.md",
-      "timestamp": 1708783959695
+      "filepath": "Tags.md",
+      "timestamp": 1708784250451
     }
   ],
   "starredFileStore": [],

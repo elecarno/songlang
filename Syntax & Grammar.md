@@ -30,7 +30,7 @@ one *(s)*|[[alate]]
 **Present Tense**|*Conjugation*|*Example ([[konete]])*
 --|--|--
 [[io]]|-elo|konetelo
-[[zyku]]<br>[[idale]]<br>[[idalya]]<br>[[idazyry]]|-ale|konetale
+[[zyku]]<br>[[idale]]<br>[[idalya]]<br>[[idazyry]]|-ano|konetano
 [[nolyo]]<br>[[zykre]]<br>[[idalre]]|-ena|konetena
 [[alate]]|-ewo|konetewo
 
