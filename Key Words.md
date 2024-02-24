@@ -35,6 +35,9 @@ thirteen|[[eyt]]
 fourteen|[[lilik]]
 fifteen|[[luk]]
 
-16 place suffix: "-ebit"
-256 place suffix: "-ibit"
+16 place suffix: "-lebit"
+256 place suffix: "-libit"
 
+Example: 1064
+- "kualibit ade dyenlebit ade otyo"
+  *one-thousand-and-sixty-four*
