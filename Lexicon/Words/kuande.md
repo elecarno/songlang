@@ -1,5 +1,6 @@
  #adjective  #root #swadesh
 
+very
 many
 ***
 ```mermaid  
