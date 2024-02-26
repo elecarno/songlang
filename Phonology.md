@@ -8,7 +8,7 @@
 | d | **d**elta | d|
 | e | **e**cho | e|
 | g | **g**olf | g|
-| i | s**ee**n (long)|i:|
+| i | s**ee**n|i|
 | k | **k**ilo |k|
 | l | **l**ima |l|
 | m | **m**ike |m|
@@ -18,7 +18,7 @@
 | t | (spanish tapped t) |t|
 | u | lag**oo**n |u|
 | w | **w**olf |w|
-|y|s**ee**n (short)|i|
+|y|s**ee**n (short)|ĭ|
 | z | **th**orn |θ|
 
 ### IPA

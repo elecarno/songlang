@@ -13,11 +13,36 @@ Word Order:
 #### Tenses
 - Present: Conjugation
 - Future: Conjugation
-- Past Imperfect: Aux verb "to do" 
+- Past Imperfect: Aux verb "to do"  /  "[[zerome]]"
 - Past Perfect: Unmarked
 
 Recent Past Perfect is marked with "just"
 
+All verbs end in a vowel, conjugation suffixes replace this vowel. For conjugated verbs, there are four different conjugations. One for the pronoun I/me, one for the singular pronouns, one for the plural pronouns, and one for the impersonal. These categories are shown below.
+
+**English Pronouns**|*Songlang Pronouns*|
+--|--
+I / me|[[io]]
+you *(s)*<br>they / it<br>they *(s/f)*<br>they *(s/m)*|[[zyku]]<br>[[idale]]<br>[[idalya]]<br>[[idazyry]]
+we / us<br>you *(pl)*<br>they *(pl)*|[[nolyo]]<br>[[zykre]]<br>[[idalre]]
+one *(s)*|[[alate]]
+
+**Present Tense**|*Conjugation*|*Example ([[konete]])*
+--|--|--
+[[io]]|-elo|konetelo
+[[zyku]]<br>[[idale]]<br>[[idalya]]<br>[[idazyry]]|-ano|konetano
+[[nolyo]]<br>[[zykre]]<br>[[idalre]]|-ena|konetena
+[[alate]]|-ewo|konetewo
+
+**Future Tense**|*Conjugation*|*Example ([[konete]])*
+--|--|--
+[[io]]|-awo|konetawo
+[[zyku]]<br>[[idale]]<br>[[idalya]]<br>[[idazyry]]|-awe|konetawe
+[[nolyo]]<br>[[zykre]]<br>[[idalre]]|-awa|konetawa
+[[alate]]|-izo|konetizo
+
+
+
 ##### Valency
-- Passive: Aux verb "to be"
-- Active: Aux verb "to command"
+- Passive: Aux verb "to be" / "[[ezere]]"
+- Active: Aux verb "to command" / "[[oredeze]]"
