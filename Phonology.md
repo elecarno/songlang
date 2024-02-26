@@ -8,7 +8,7 @@
 | d | **d**elta | d|
 | e | **e**cho | e|
 | g | **g**olf | g|
-| i | s**ee**n (long)|i:|
+| i | s**ee**n|i|
 | k | **k**ilo |k|
 | l | **l**ima |l|
 | m | **m**ike |m|
@@ -18,21 +18,21 @@
 | t | (spanish tapped t) |t|
 | u | lag**oo**n |u|
 | w | **w**olf |w|
-|y|s**ee**n (short)|i|
+|y|s**ee**n (short)|ĭ|
 | z | **th**orn |θ|
 
 ### IPA
 |Labial|  Dental | Alveolar  |   |  Retroflex | Velar   |   |
 |---|---|---|---|---|---|---|
 |Stop|b||t|d|k|g||
-|Fricative||θ||||||
+|Fricative||z /θ/||||||
 |Affricate||||||||
 |Nasal|m||n|||||
-|Liquid|||ɾ|l|w|||
+|Liquid|||r /ɾ/|l|w|||
 
 | |Front|Central|Back|
 |---|---|---|---|
-|High|i, i:||u|
+|High|i, y /ĭ/||u|
 |Middle|e||o|
 |Low||a||
 
