@@ -25,14 +25,14 @@
 |Labial|  Dental | Alveolar  |   |  Retroflex | Velar   |   |
 |---|---|---|---|---|---|---|
 |Stop|b||t|d|k|g||
-|Fricative||θ||||||
+|Fricative||z /θ/||||||
 |Affricate||||||||
 |Nasal|m||n|||||
-|Liquid|||ɾ|l|w|||
+|Liquid|||r /ɾ/|l|w|||
 
 | |Front|Central|Back|
 |---|---|---|---|
-|High|i, i:||u|
+|High|i, y /ĭ/||u|
 |Middle|e||o|
 |Low||a||
 
