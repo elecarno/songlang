@@ -25,23 +25,23 @@
   "recentFilesStore": [
     {
       "filepath": "Lexicon/Words/Untitled.md",
-      "timestamp": 1709116462661
+      "timestamp": 1709116850754
+    },
+    {
+      "filepath": "Lexicon/Words/eymbe.md",
+      "timestamp": 1709116738493
+    },
+    {
+      "filepath": "Lexicon/Words/motembe.md",
+      "timestamp": 1709116726102
+    },
+    {
+      "filepath": "Lexicon/Words/kontembe.md",
+      "timestamp": 1709116640516
     },
     {
       "filepath": "Lexicon/Words/rityme.md",
       "timestamp": 1709116282816
-    },
-    {
-      "filepath": "Key Words.md",
-      "timestamp": 1709071674822
-    },
-    {
-      "filepath": "Phonology.md",
-      "timestamp": 1709071672782
-    },
-    {
-      "filepath": "Test Sentences.md",
-      "timestamp": 1709071670627
     }
   ],
   "starredFileStore": [],
