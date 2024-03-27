@@ -24,8 +24,16 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
-      "filepath": "Lexicon/Words/Untitled.md",
-      "timestamp": 1709116850754
+      "filepath": "Lexicon/Words/0 - grass.md",
+      "timestamp": 1711533232001
+    },
+    {
+      "filepath": "Lexicon/Words/0 - hand.md",
+      "timestamp": 1711533192641
+    },
+    {
+      "filepath": "Lexicon/Words/0 - hair.md",
+      "timestamp": 1711533189023
     },
     {
       "filepath": "Lexicon/Words/eymbe.md",
@@ -34,14 +42,6 @@
     {
       "filepath": "Lexicon/Words/motembe.md",
       "timestamp": 1709116726102
-    },
-    {
-      "filepath": "Lexicon/Words/kontembe.md",
-      "timestamp": 1709116640516
-    },
-    {
-      "filepath": "Lexicon/Words/rityme.md",
-      "timestamp": 1709116282816
     }
   ],
   "starredFileStore": [],
