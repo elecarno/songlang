@@ -24,7 +24,11 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
-      "filepath": "Lexicon/Words/0 - wing.md",
+      "filepath": "aloande.md",
+      "timestamp": 1716399743524
+    },
+    {
+      "filepath": "Lexicon/Words/layten.md",
       "timestamp": 1716399679672
     },
     {
@@ -38,10 +42,6 @@
     {
       "filepath": "Lexicon/Words/kanekoto.md",
       "timestamp": 1716399602953
-    },
-    {
-      "filepath": "Lexicon/Words/irokoto.md",
-      "timestamp": 1716399602135
     }
   ],
   "starredFileStore": [],
