@@ -1,5 +1,5 @@
 #verb
 
-*opposite of [[kalne]]*
+*antonym: [[kalne]]*
 
 to be bothered by

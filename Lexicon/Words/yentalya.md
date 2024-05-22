@@ -3,4 +3,4 @@
 woman
 person, *f*
 ***
-*f*, [[yente]]
+*f. [[yente]]*

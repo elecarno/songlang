@@ -3,4 +3,4 @@
 she
 they, *f*
 ***
-*f*, [[idale]]
+*f.[[idale]]*

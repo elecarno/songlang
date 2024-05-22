@@ -6,4 +6,4 @@ you, *pl*
 *"you cannot die"*
 *"zykure ---"*
 ***
-*pl* [[zyku]]
+*pl. [[zyku]]*

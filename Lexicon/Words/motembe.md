@@ -1,0 +1,5 @@
+#noun 
+
+time
+***
+*der. [[kontembe]]*

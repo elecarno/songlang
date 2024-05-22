@@ -4,4 +4,4 @@ oh
 
 ***
 *"oh, dying thing"*
-*"ya, [[iriatei]]"*
+*"ya, iriatei"*

@@ -2,4 +2,4 @@
 
 they, *pl*
 ***
-*pl*, [[idale]]
+*pl. [[idale]]*
