@@ -24,24 +24,24 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
+      "filepath": "Test Sentences.md",
+      "timestamp": 1714383538784
+    },
+    {
+      "filepath": "Tags.md",
+      "timestamp": 1714383537065
+    },
+    {
+      "filepath": "Syntax & Grammar.md",
+      "timestamp": 1714383534581
+    },
+    {
+      "filepath": "Key Words.md",
+      "timestamp": 1714381690545
+    },
+    {
       "filepath": "Lexicon/Words/0 - grass.md",
       "timestamp": 1711533232001
-    },
-    {
-      "filepath": "Lexicon/Words/0 - hand.md",
-      "timestamp": 1711533192641
-    },
-    {
-      "filepath": "Lexicon/Words/0 - hair.md",
-      "timestamp": 1711533189023
-    },
-    {
-      "filepath": "Lexicon/Words/eymbe.md",
-      "timestamp": 1709116738493
-    },
-    {
-      "filepath": "Lexicon/Words/motembe.md",
-      "timestamp": 1709116726102
     }
   ],
   "starredFileStore": [],
