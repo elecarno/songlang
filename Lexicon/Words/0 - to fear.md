@@ -1,0 +1,1 @@
+#verb #root #swadesh 
