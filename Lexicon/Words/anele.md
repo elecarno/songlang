@@ -2,10 +2,4 @@
 
 there
 ***
-```mermaid
-graph LR
-
-A(ani) ---> B(anele)
-
-class A internal-link;
-```
+*der. [[ani]]*

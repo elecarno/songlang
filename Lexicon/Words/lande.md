@@ -1,8 +1,7 @@
  #adjective  #root #swadesh
 
+*antonym: [[aloande]]*
+
 big
+large
 ***
-```mermaid  
-flowchart LR
-A[grande <sub>en</sub>] ---> B[lande]
-```

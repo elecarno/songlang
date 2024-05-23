@@ -3,4 +3,4 @@
 man
 person, *n*
 ***
-*n*, [[yente]]
+*n. [[yente]]*

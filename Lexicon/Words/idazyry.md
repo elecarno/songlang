@@ -3,4 +3,4 @@
 he
 they, *n*
 ***
-*n*, [[idale]]
+*n. [[idale]]*

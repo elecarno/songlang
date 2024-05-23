@@ -1,0 +1,4 @@
+#noun #root #swadesh 
+
+grass
+***

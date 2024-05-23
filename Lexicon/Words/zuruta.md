@@ -2,7 +2,3 @@
 
 fruit
 ***
-```mermaid  
-flowchart LR
-A[fruta <sub>en</sub>] ---> B[zuruta]
-```

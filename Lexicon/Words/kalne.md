@@ -1,5 +1,7 @@
-#adjective
+#adjective #verb 
+
+*antonym: [[kalnala]]*
 
 smooth
-unhindered
-unaffected
+(to be) unhindered
+(to be) unaffected
