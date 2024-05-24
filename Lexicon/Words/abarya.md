@@ -1,0 +1,6 @@
+#noun 
+
+aunt
+
+***
+*f. [[abare]]*

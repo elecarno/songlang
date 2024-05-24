@@ -1,0 +1,4 @@
+#adjective 
+
+strong
+powerful

@@ -3,5 +3,8 @@
   "theme": "obsidian",
   "interfaceFontFamily": "Lora",
   "textFontFamily": "Lora",
-  "cssTheme": ""
+  "cssTheme": "",
+  "enabledCssSnippets": [
+    "songlang-font"
+  ]
 }

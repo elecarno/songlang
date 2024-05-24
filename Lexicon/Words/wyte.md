@@ -1,5 +1,6 @@
 #preposition 
 
+while
 during
 in (*time period or event*)
 

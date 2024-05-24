@@ -13,7 +13,7 @@ Word Order:
 #### Tenses
 - Present: Conjugation
 - Future: Conjugation
-- Past Imperfect: Aux verb "to do"  /  "[[zerome]]"
+- Past Imperfect: Aux verb "to do"  /  "[[zere]]" (present tense conjugation)
 - Past Perfect: Unmarked
 
 Recent Past Perfect is marked with "just"
@@ -43,9 +43,9 @@ one *(s)*|[[alate]]
 
 ##### Valency
 - Passive: Aux verb "to be" / "[[ezere]]"
-- Active: Aux verb "to command" / "[[oredeze]]"
+- Active: Aux verb "to command" / "[[ore]]"
 
-(Aux verb is conjugated, affected verb is not.)
+(Aux verb is conjugated, affected verb is not)
 
 ##### Conditional
 - "-yzo" conjugation.
@@ -53,3 +53,6 @@ one *(s)*|[[alate]]
 #### Superlatives
 - "-alo" suffix.
 - This suffix can also be added to some nouns
+
+#### Adverb Suffix
+- "-ta" or "-ata" to turn an adjective into an adverb
