@@ -1,6 +1,6 @@
 #docs 
 
-Idale lytewano imyu kola
+///
 *The sun shines.*
 ***
 
@@ -8,11 +8,11 @@ Idale lytewano imyu kola
 *The sun is shining.*
 ***
 
-Idale lytewe imyu kola
+///
 *The sun shone.*
 ***
 
-Idale lytewawe imyu kola
+///
 *The sun will shine.*
 ***
 

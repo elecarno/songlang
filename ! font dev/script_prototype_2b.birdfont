@@ -1,0 +1,753 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<font>
+<format>4.33</format>
+<program version="6.4.6" os="windows" />
+
+<postscript_name>Songlang Script B</postscript_name>
+<name>Songlang Script B</name>
+<subfamily>Regular</subfamily>
+<bold>false</bold>
+<italic>false</italic>
+<mono>false</mono>
+<full_name>Songlang Script B</full_name>
+<unique_identifier>songlang_script_b</unique_identifier>
+<version>Version 1.0</version>
+<description></description>
+<copyright>SIL Open Font License (OFL)</copyright>
+<license>SIL Open Font License (OFL)</license>
+<license_url>http://scripts.sil.org/OFL</license_url>
+<weight>400</weight>
+<italic_angle>0</italic_angle>
+<units_per_em>1024</units_per_em>
+<trademark></trademark>
+<manufacturer></manufacturer>
+<designer></designer>
+<vendor_url></vendor_url>
+<vendor_id>Bird</vendor_id>
+<designer_url></designer_url>
+<underline_position>-10</underline_position>
+<underline_thickness>3.5</underline_thickness>
+<open_engraving>false</open_engraving>
+<same_way_back_engraving>false</same_way_back_engraving>
+<external_backgrunds>false</external_backgrunds>
+
+<horizontal>
+	<top_limit>78</top_limit>
+	<top_position>72</top_position>
+	<x-height>36</x-height>
+	<base_line>0</base_line>
+	<bottom_position>-20</bottom_position>
+	<bottom_limit>-21</bottom_limit>
+	<line_gap>10</line_gap>
+</horizontal>
+
+<grid width="1"/>
+<grid width="2"/>
+<grid width="4"/>
+
+<background scale="1" />
+
+<base_filename>Songlang Script B</base_filename>
+<base_filename_mac>Songlang Script B Mac</base_filename_mac>
+<export_ttf_font>true</export_ttf_font>
+<export_otf_font>true</export_otf_font>
+<export_eot_font>false</export_eot_font>
+<export_svg_font>false</export_svg_font>
+<export_colr_table>true</export_colr_table>
+<export_svg_table>true</export_svg_table>
+<optimize_otf_for_size>false</optimize_otf_for_size>
+<optimize_otf_for_details>true</optimize_otf_for_details>
+
+<default_foreground_color></default_foreground_color>
+
+<svg_units_per_em>100</svg_units_per_em>
+<svg_decimals>5</svg_decimals>
+<ligature_tag>clig</ligature_tag>
+<disable_gvar>false</disable_gvar>
+
+
+<collection unicode="U+22" svg="false" colr="false" auto_generate="false" meta_name="">
+	<selected id="0"/>
+	<glyph id="0" left="-18" right="18" zero_width="false">
+		<layer name="Layer" visible="true">
+			<path stroke="5" cap="round" data="R 7.40944,56.93091 Q 6.79215,55.4699 5.67094,54.32906 Q 4.58188,53.21569 3.06909,52.59056 Q 1.61367,52.00455 0,51.98007 Q -1.56881,51.96545 -3.06909,52.59056 Q -4.5243,53.1773 -5.67094,54.32906 Q -6.79039,55.42804 -7.40944,56.93091 Q -8.02389,58.37492 -8.01993,60 Q -8.03392,61.5682 -7.40944,63.06909 Q -6.82331,64.52569 -5.67094,65.67094 Q -4.57189,66.78783 -3.06909,67.40944 Q -1.62358,68.02782 0,68.01993 Q 1.56399,68.02911 3.06909,67.40944 Q 4.53405,66.82749 5.67094,65.67094 Q 6.77773,64.5687 7.40944,63.06909 Q 8.0384,61.62294 8.01993,60 Q 8.02748,58.39367 7.40944,56.93091" />
+			<path stroke="5" cap="round" data="R 0,52 K 0,40 K 0,52 O" />
+		</layer>
+	</glyph>
+</collection>
+
+<collection unicode="U+27" svg="false" colr="false" auto_generate="false" meta_name="">
+	<selected id="1"/>
+	<glyph id="1" left="-18" right="18" zero_width="false">
+		<layer name="Layer" visible="true">
+			<path stroke="5" cap="round" data="R 7.40944,56.93091 Q 6.79215,55.4699 5.67094,54.32906 Q 4.58188,53.21569 3.06909,52.59056 Q 1.61367,52.00455 0,51.98007 Q -1.56881,51.96545 -3.06909,52.59056 Q -4.5243,53.1773 -5.67094,54.32906 Q -6.79039,55.42804 -7.40944,56.93091 Q -8.02389,58.37492 -8.01993,60 Q -8.03392,61.5682 -7.40944,63.06909 Q -6.82331,64.52569 -5.67094,65.67094 Q -4.57189,66.78783 -3.06909,67.40944 Q -1.62358,68.02782 0,68.01993 Q 1.56399,68.02911 3.06909,67.40944 Q 4.53405,66.82749 5.67094,65.67094 Q 6.77773,64.5687 7.40944,63.06909 Q 8.0384,61.62294 8.01993,60 Q 8.02748,58.39367 7.40944,56.93091" />
+			<path stroke="5" cap="round" data="R 0,32 K 0,44 K 0,32 O" />
+		</layer>
+	</glyph>
+</collection>
+
+<collection unicode="U+2c" svg="false" colr="false" auto_generate="false" meta_name="">
+	<selected id="0"/>
+	<glyph id="0" left="-14" right="14" zero_width="false">
+		<layer name="Layer" visible="true">
+			<path stroke="5" cap="round" data="R -8,-16 Q 0,-16 0,-6 C 0,-0.66667 0,-8 0,0 C -2.66667,-5.33333 -4,-8 -8,-16 O" />
+			<path stroke="5" cap="round" data="R -10,0 K 10,0 K -10,0 O" />
+			<path stroke="5" cap="round" data="R 5.50416,13.7201 Q 5.0456,12.63478 4.2127,11.7873 Q 3.40368,10.96022 2.2799,10.49584 Q 1.19873,10.06052 0,10.04234 Q -1.1654,10.03148 -2.2799,10.49584 Q -3.36091,10.93171 -4.2127,11.7873 Q -5.04429,12.60368 -5.50416,13.7201 Q -5.9606,14.7928 -5.95766,16 Q -5.96805,17.16495 -5.50416,18.2799 Q -5.06874,19.36194 -4.2127,20.2127 Q -3.39626,21.04239 -2.2799,21.50416 Q -1.20608,21.96353 0,21.95766 Q 1.16182,21.96448 2.2799,21.50416 Q 3.36815,21.07185 4.2127,20.2127 Q 5.03489,19.39389 5.50416,18.2799 Q 5.97138,17.20561 5.95766,16 Q 5.96327,14.80673 5.50416,13.7201" />
+		</layer>
+	</glyph>
+</collection>
+
+<collection unicode="U+2e" svg="false" colr="false" auto_generate="false" meta_name="">
+	<selected id="0"/>
+	<glyph id="0" left="-16" right="16" zero_width="false">
+		<layer name="Layer" visible="true">
+			<path stroke="5" cap="round" join="round" data="R 12,14 Q 12,4 0,4 Q -12,4 -12,14 Q -2,16 0,24 Q 2,16 12,14" />
+		</layer>
+	</glyph>
+</collection>
+
+<collection name=".notdef" svg="false" colr="false" auto_generate="false" meta_name="">
+	<selected id="0"/>
+	<glyph id="0" left="-20" right="33" zero_width="false">
+		<layer name="Layer" visible="true">
+			<path data="B -15,10 M 15,10 M 15,62 M -15,62 M -15,10" />
+			<path data="B -20,67 M 20,67 M 20,5 M -20,5 M -20,67" />
+		</layer>
+	</glyph>
+</collection>
+
+<collection unicode="U+30" svg="false" colr="false" auto_generate="false" meta_name="">
+	<selected id="0"/>
+	<glyph id="0" left="-16" right="16" zero_width="false">
+		<layer name="Layer" visible="true">
+			<path stroke="7" cap="round" data="R 9.24126,32.18556 Q 8.47405,30.36974 7.08055,28.95183 Q 5.727,27.56807 3.84682,26.79112 Q 2.03794,26.0628 0.03238,26.03238 Q -1.91742,26.01421 -3.78206,26.79112 Q -5.59068,27.52036 -7.01579,28.95183 Q -8.4071,30.3177 -9.1765,32.18556 Q -9.94017,33.98026 -9.93524,36 Q -9.95263,37.94905 -9.1765,39.81444 Q -8.44802,41.62479 -7.01579,43.04817 Q -5.64983,44.4363 -3.78206,45.20888 Q -1.98549,45.97744 0.03238,45.96762 Q 1.9762,45.97904 3.84682,45.20888 Q 5.66755,44.4856 7.08055,43.04817 Q 8.45613,41.67825 9.24126,39.81444 Q 10.02296,38.01708 10,36 Q 10.00939,34.00357 9.24126,32.18556" />
+			<path stroke="7" cap="round" data="R -8,16 K 8,16 Q 0,16 -8,16 O" />
+		</layer>
+	</glyph>
+</collection>
+
+<collection unicode="U+31" svg="false" colr="false" auto_generate="false" meta_name="">
+	<selected id="1"/>
+	<glyph id="1" left="-16" right="16" zero_width="false">
+		<layer name="Layer" visible="true">
+			<path stroke="7" cap="round" join="round" data="R 10,4 K -10,4 K -10,52 Q -10,68 10,68 K 10,4 O" />
+		</layer>
+	</glyph>
+</collection>
+
+<collection unicode="U+32" svg="false" colr="false" auto_generate="false" meta_name="">
+	<selected id="3"/>
+	<glyph id="3" left="-16" right="16" zero_width="false">
+		<layer name="Layer" visible="true">
+			<path stroke="7" cap="round" join="round" data="R 10,68 Q -10,68 -10,52 K -10,36 K 10,36 Q 10,24 10,20 Q 10,4 -10,4 K 10,68 O" />
+		</layer>
+	</glyph>
+</collection>
+
+<collection unicode="U+33" svg="false" colr="false" auto_generate="false" meta_name="">
+	<selected id="2"/>
+	<glyph id="2" left="-16" right="16" zero_width="false">
+		<layer name="Layer" visible="true">
+			<path stroke="7" cap="round" data="R 9.20888,28.15318 Q 8.44167,26.33736 7.04817,24.91945 Q 5.69462,23.53569 3.81444,22.75874 Q 2.00556,22.03042 0,22 Q -1.9498,21.98183 -3.81444,22.75874 Q -5.62306,23.48798 -7.04817,24.91945 Q -8.43948,26.28532 -9.20888,28.15318 Q -9.97255,29.94788 -9.96762,36.03238 Q -9.98501,41.98143 -9.20888,43.84682 Q -8.4804,45.65717 -7.04817,47.08055 Q -5.68221,48.46868 -3.81444,49.24126 Q -2.01787,50.00982 0,50 Q 1.94382,50.01142 3.81444,49.24126 Q 5.63517,48.51798 7.04817,47.08055 Q 8.42375,45.71063 9.20888,43.84682 Q 10,42 9.96762,36.03238 Q 9.97701,29.97119 9.20888,28.15318" />
+			<path stroke="7" cap="round" data="R 8,4 K -8,4 K 8,4 O" />
+			<path stroke="7" cap="round" data="R 8,68 K -8,68 K 8,68 O" />
+		</layer>
+	</glyph>
+</collection>
+
+<collection unicode="U+34" svg="false" colr="false" auto_generate="false" meta_name="">
+	<selected id="2"/>
+	<glyph id="2" left="-16" right="16" zero_width="false">
+		<layer name="Layer" visible="true">
+			<path stroke="7" cap="round" data="R -10,4 K -10,20 Q -10,36 0,36 Q 10,36 10,48 K 10,68 K -10,4 O" />
+			<path stroke="7" cap="round" data="R 10,12 K 10,24 K 10,12 O" />
+			<path stroke="7" cap="round" data="R -10,58 K -10,46 K -10,58 O" />
+		</layer>
+	</glyph>
+</collection>
+
+<collection unicode="U+35" svg="false" colr="false" auto_generate="false" meta_name="">
+	<selected id="3"/>
+	<glyph id="3" left="-16" right="16" zero_width="false">
+		<layer name="Layer" visible="true">
+			<path stroke="7" cap="round" join="round" data="R -10,4 Q -10,24 10,24 Q 10,30 10,36 C 3.33333,36 0,36 -10,36 Q -10,42 -10,48 Q -10,68 12,68 K -10,4 O" />
+		</layer>
+	</glyph>
+</collection>
+
+<collection unicode="U+36" svg="false" colr="false" auto_generate="false" meta_name="">
+	<selected id="2"/>
+	<glyph id="2" left="-16" right="16" zero_width="false">
+		<layer name="Layer" visible="true">
+			<path stroke="7" cap="round" data="R 9.24126,32.18556 Q 8.47405,30.36974 7.08055,28.95183 Q 5.727,27.56807 3.84682,26.79112 Q 2.03794,26.0628 0.03238,26.03238 Q -1.91742,26.01421 -3.78206,26.79112 Q -5.59068,27.52036 -7.01579,28.95183 Q -8.4071,30.3177 -9.1765,32.18556 Q -9.94017,33.98026 -9.93524,36 Q -9.95263,37.94905 -9.1765,39.81444 Q -8.44802,41.62479 -7.01579,43.04817 Q -5.64983,44.4363 -3.78206,45.20888 Q -1.98549,45.97744 0.03238,45.96762 Q 1.9762,45.97904 3.84682,45.20888 Q 5.66755,44.4856 7.08055,43.04817 Q 8.45613,41.67825 9.24126,39.81444 Q 10.02296,38.01708 10,36 Q 10.00939,34.00357 9.24126,32.18556" />
+			<path stroke="7" cap="round" data="R 5.50416,59.7201 Q 5.0456,58.63478 4.2127,57.7873 Q 3.40368,56.96022 2.2799,56.49584 Q 1.19873,56.06052 0,56.04234 Q -1.1654,56.03148 -2.2799,56.49584 Q -3.36091,56.93171 -4.2127,57.7873 Q -5.04429,58.60368 -5.50416,59.7201 Q -5.9606,60.7928 -5.95766,62 Q -5.96805,63.16495 -5.50416,64.2799 Q -5.06874,65.36194 -4.2127,66.2127 Q -3.39626,67.04239 -2.2799,67.50416 Q -1.20608,67.96353 0,67.95766 Q 1.16182,67.96448 2.2799,67.50416 Q 3.36815,67.07185 4.2127,66.2127 Q 5.03489,65.39389 5.50416,64.2799 Q 5.97138,63.20561 5.95766,62 Q 5.96327,60.80673 5.50416,59.7201 T" />
+			<path stroke="7" cap="round" data="R 5.50416,7.67776 Q 5.0456,6.59244 4.2127,5.74496 Q 3.40368,4.91788 2.2799,4.4535 Q 1.19873,4.01818 0,4 Q -1.1654,3.98914 -2.2799,4.4535 Q -3.36091,4.88937 -4.2127,5.74496 Q -5.04429,6.56134 -5.50416,7.67776 Q -5.9606,8.75046 -5.95766,9.95766 Q -5.96805,11.12261 -5.50416,12.23756 Q -5.06874,13.3196 -4.2127,14.17036 Q -3.39626,15.00005 -2.2799,15.46182 Q -1.20608,15.92119 0,15.91532 Q 1.16182,15.92214 2.2799,15.46182 Q 3.36815,15.02951 4.2127,14.17036 Q 5.03489,13.35155 5.50416,12.23756 Q 5.97138,11.16327 5.95766,9.95766 Q 5.96327,8.76439 5.50416,7.67776" />
+		</layer>
+	</glyph>
+</collection>
+
+<collection unicode="U+37" svg="false" colr="false" auto_generate="false" meta_name="">
+	<selected id="3"/>
+	<glyph id="3" left="-16" right="16" zero_width="false">
+		<layer name="Layer" visible="true">
+			<path stroke="7" cap="round" data="R 5.50416,59.7201 Q 5.0456,58.63478 4.2127,57.7873 Q 3.40368,56.96022 2.2799,56.49584 Q 1.19873,56.06052 0,56.04234 Q -1.1654,56.03148 -2.2799,56.49584 Q -3.36091,56.93171 -4.2127,57.7873 Q -5.04429,58.60368 -5.50416,59.7201 Q -5.9606,60.7928 -5.95766,62 Q -5.96805,63.16495 -5.50416,64.2799 Q -5.06874,65.36194 -4.2127,66.2127 Q -3.39626,67.04239 -2.2799,67.50416 Q -1.20608,67.96353 0,67.95766 Q 1.16182,67.96448 2.2799,67.50416 Q 3.36815,67.07185 4.2127,66.2127 Q 5.03489,65.39389 5.50416,64.2799 Q 5.97138,63.20561 5.95766,62 Q 5.96327,60.80673 5.50416,59.7201" />
+			<path stroke="7" cap="round" data="R 5.50416,7.67776 Q 5.0456,6.59244 4.2127,5.74496 Q 3.40368,4.91788 2.2799,4.4535 Q 1.19873,4.01818 0,4 Q -1.1654,3.98914 -2.2799,4.4535 Q -3.36091,4.88937 -4.2127,5.74496 Q -5.04429,6.56134 -5.50416,7.67776 Q -5.9606,8.75046 -5.95766,9.95766 Q -5.96805,11.12261 -5.50416,12.23756 Q -5.06874,13.3196 -4.2127,14.17036 Q -3.39626,15.00005 -2.2799,15.46182 Q -1.20608,15.92119 0,15.91532 Q 1.16182,15.92214 2.2799,15.46182 Q 3.36815,15.02951 4.2127,14.17036 Q 5.03489,13.35155 5.50416,12.23756 Q 5.97138,11.16327 5.95766,9.95766 Q 5.96327,8.76439 5.50416,7.67776" />
+			<path stroke="7" cap="round" data="R -10,24 Q -10,36 0,36 Q 10,36 10,48 Q -8,32 -10,24 O" />
+		</layer>
+	</glyph>
+</collection>
+
+<collection unicode="U+38" svg="false" colr="false" auto_generate="false" meta_name="">
+	<selected id="3"/>
+	<glyph id="3" left="-16" right="16" zero_width="false">
+		<layer name="Layer" visible="true">
+			<path stroke="7" cap="round" data="R -10,4 K -10,20 Q -10,36 0,36 Q 10,36 10,48 C 10,54.66667 10,58 10,68 K -10,4 O" />
+			<path stroke="7" cap="round" data="R 9.50416,9.7201 Q 9.0456,8.63478 8.2127,7.7873 Q 7.40368,6.96022 6.2799,6.49584 Q 5.19873,6.06052 4,6.04234 Q 2.8346,6.03148 1.7201,6.49584 Q 0.63909,6.93171 -0.2127,7.7873 Q -1.04429,8.60368 -1.50416,9.7201 Q -1.9606,10.7928 -1.95766,12 Q -1.96805,13.16495 -1.50416,14.2799 Q -1.06874,15.36194 -0.2127,16.2127 Q 0.60374,17.04239 1.7201,17.50416 Q 2.79392,17.96353 4,17.95766 Q 5.16182,17.96448 6.2799,17.50416 Q 7.36815,17.07185 8.2127,16.2127 Q 9.03489,15.39389 9.50416,14.2799 Q 9.97138,13.20561 9.95766,12 Q 9.96327,10.80673 9.50416,9.7201 T" />
+			<path stroke="7" cap="round" data="R 1.5465,57.7201 Q 1.08794,56.63478 0.25504,55.7873 Q -0.55398,54.96022 -1.67776,54.49584 Q -2.75893,54.06052 -3.95766,54.04234 Q -5.12306,54.03148 -6.23756,54.49584 Q -7.31857,54.93171 -8.17036,55.7873 Q -9.00195,56.60368 -9.46182,57.7201 Q -9.91826,58.7928 -9.91532,60 Q -9.92571,61.16495 -9.46182,62.2799 Q -9.0264,63.36194 -8.17036,64.2127 Q -7.35392,65.04239 -6.23756,65.50416 Q -5.16374,65.96353 -3.95766,65.95766 Q -2.79583,65.96448 -1.67776,65.50416 Q -0.58951,65.07185 0.25504,64.2127 Q 1.07723,63.39389 1.5465,62.2799 Q 2.01372,61.20561 2,60 Q 2.00561,58.80673 1.5465,57.7201" />
+		</layer>
+	</glyph>
+</collection>
+
+<collection unicode="U+39" svg="false" colr="false" auto_generate="false" meta_name="">
+	<selected id="2"/>
+	<glyph id="2" left="-16" right="16" zero_width="false">
+		<layer name="Layer" visible="true">
+			<path stroke="7" cap="round" data="R 9.20888,10.21794 Q 8.44167,8.40212 7.04817,6.98421 Q 5.69462,5.60045 3.81444,4.8235 Q 2.00556,4.09518 0,4.06476 Q -1.9498,4.04659 -3.81444,4.8235 Q -5.62306,5.55274 -7.04817,6.98421 Q -8.43948,8.35008 -9.20888,10.21794 Q -9.97255,12.01264 -9.96762,14.03238 Q -9.98501,15.98143 -9.20888,17.84682 Q -8.4804,19.65717 -7.04817,21.08055 Q -5.68221,22.46868 -3.81444,23.24126 Q -2.01787,24.00982 0,24 Q 1.94382,24.01142 3.81444,23.24126 Q 5.63517,22.51798 7.04817,21.08055 Q 8.42375,19.71063 9.20888,17.84682 Q 9.99058,16.04946 9.96762,14.03238 Q 9.97701,12.03595 9.20888,10.21794" />
+			<path stroke="7" cap="round" join="round" data="R 10,68 Q -10,68 -10,48 Q -10,42 -10,36 Q 0,36 0,24 Q 2,38 10,68 O" />
+		</layer>
+	</glyph>
+</collection>
+
+<collection unicode="U+3a" svg="false" colr="false" auto_generate="false" meta_name="">
+	<selected id="0"/>
+	<glyph id="0" left="-16" right="12" zero_width="false">
+		<layer name="Layer" visible="true">
+			<path stroke="5" cap="round" data="R -12,60 Q -12,44 8,44 Q -6,52 -12,60 O" />
+			<path stroke="5" cap="round" data="R -12,12 Q -12,28 8,28 K -12,12 O" />
+		</layer>
+	</glyph>
+</collection>
+
+<collection unicode="U+3b" svg="false" colr="false" auto_generate="false" meta_name="">
+	<selected id="1"/>
+	<glyph id="1" left="-16" right="12" zero_width="false">
+		<layer name="Layer" visible="true">
+			<path stroke="5" cap="round" data="R -12,60 Q -12,44 8,44 K -12,60 O" />
+			<path stroke="5" cap="round" data="R 8,12 Q 8,28 -12,28 K 8,12 O" />
+		</layer>
+	</glyph>
+</collection>
+
+<collection unicode="U+3f" svg="false" colr="false" auto_generate="false" meta_name="">
+	<selected id="1"/>
+	<glyph id="1" left="-18" right="10" zero_width="false">
+		<layer name="Layer" visible="true">
+			<path stroke="5" cap="round" data="R 5.95766,62.04234 Q 5.97138,63.24795 5.50416,64.32224 Q 5.03489,65.43624 4.2127,66.25504 Q 3.36815,67.11419 2.2799,67.5465 Q 1.16182,68.00682 0,68 Q -1.20608,68.00587 -2.2799,67.5465 Q -3.39626,67.08473 -4.2127,66.25504 Q -5.06874,65.40428 -5.50416,64.32224 Q -5.96805,63.20729 -5.95766,62.04234 Q -5.9606,60.83514 -5.50416,59.76244 Q -5.04429,58.64602 -4.2127,57.82964 Q -3.36091,56.97405 -2.2799,56.53818 Q -1.1654,56.07382 0,56.08468 Q 1.19873,56.10286 2.2799,56.53818 Q 3.40368,57.00257 4.2127,57.82964 Q 5.0456,58.67713 5.50416,59.76244 Q 5.96327,60.84907 5.95766,62.04234" />
+			<path stroke="5" cap="round" join="round" data="R 0,4 K 0,20 Q 0,34 -14,34 Q 0,34 0,50 K 0,4 O" />
+		</layer>
+	</glyph>
+</collection>
+
+<collection unicode="U+41" svg="false" colr="false" auto_generate="false" meta_name="">
+	<selected id="3"/>
+	<glyph id="3" left="-16" right="16" zero_width="false">
+		<layer name="Layer" visible="true">
+			<path stroke="7" cap="round" join="round" data="R -10,4 Q -10,24 10,24 Q 10,30 10,36 C 3.33333,36 0,36 -10,36 Q -10,42 -10,48 Q 10,48 10,68 Q 0,60 -10,4 O" />
+		</layer>
+	</glyph>
+</collection>
+
+<collection unicode="U+42" svg="false" colr="false" auto_generate="false" meta_name="">
+	<selected id="3"/>
+	<glyph id="3" left="-16" right="16" zero_width="false">
+		<layer name="Layer" visible="true">
+			<path stroke="7" cap="round" join="round" data="B 10,68 Q 10,48 -10,48 Q -10,42 -10,36 Q 2,36 2,24 C 6,46 7.33333,53.33333 10,68 O" />
+			<path stroke="7" cap="round" data="R 11.31473,10.14171 Q 10.53871,8.30502 9.12919,6.87081 Q 7.76008,5.47115 5.85829,4.68527 Q 4.02862,3.94858 2,3.91781 Q 0.02779,3.89943 -1.85829,4.68527 Q -3.68769,5.42289 -5.12919,6.87081 Q -6.53649,8.25239 -7.31473,10.14171 Q -8.08718,11.95705 -8.08219,14 Q -8.09978,15.97146 -7.31473,17.85829 Q -6.57787,19.68944 -5.12919,21.12919 Q -3.74752,22.53327 -1.85829,23.31473 Q -0.04107,24.09212 2,24.08219 Q 3.96616,24.09374 5.85829,23.31473 Q 7.69995,22.58314 9.12919,21.12919 Q 10.52058,19.74351 11.31473,17.85829 Q 12.10542,16.04027 12.08219,14 Q 12.09169,11.98062 11.31473,10.14171 T" />
+		</layer>
+	</glyph>
+</collection>
+
+<collection unicode="U+43" svg="false" colr="false" auto_generate="false" meta_name="">
+	<selected id="1"/>
+	<glyph id="1" left="-16" right="16" zero_width="false">
+		<layer name="Layer" visible="true">
+			<path stroke="7" cap="round" join="round" data="R -10,4 Q -10,15.55 -10,48 C 3.33333,48 10,54.66667 10,68 C 3.33333,46.66667 -10,15.55 -10,4 O" />
+			<path stroke="7" cap="round" data="R 11.61001,23.67626 Q 11.14263,22.57007 10.29371,21.70629 Q 9.46914,20.86331 8.32374,20.38999 Q 7.22178,19.9463 6,19.92777 Q 4.81219,19.9167 3.67626,20.38999 Q 2.57446,20.83424 1.70629,21.70629 Q 0.85871,22.53837 0.38999,23.67626 Q -0.07523,24.76959 -0.07223,26 Q -0.08282,27.18735 0.38999,28.32374 Q 0.83378,29.4266 1.70629,30.29371 Q 2.53843,31.13936 3.67626,31.61001 Q 4.77072,32.07821 6,32.07223 Q 7.18417,32.07918 8.32374,31.61001 Q 9.43292,31.16939 10.29371,30.29371 Q 11.13171,29.45916 11.61001,28.32374 Q 12.08622,27.2288 12.07223,26 Q 12.07795,24.78378 11.61001,23.67626" />
+			<path stroke="7" cap="round" data="R -10,26 K 0,26 K -10,26 O" />
+		</layer>
+	</glyph>
+</collection>
+
+<collection unicode="U+44" svg="false" colr="false" auto_generate="false" meta_name="">
+	<selected id="2"/>
+	<glyph id="2" left="-16" right="16" zero_width="false">
+		<layer name="Layer" visible="true">
+			<path stroke="7" cap="round" data="R 9.20888,10.15318 Q 8.44167,8.33736 7.04817,6.91945 Q 5.69462,5.53569 3.81444,4.75874 Q 2.00556,4.03042 0,4 Q -1.9498,3.98183 -3.81444,4.75874 Q -5.62306,5.48798 -7.04817,6.91945 Q -8.43948,8.28532 -9.20888,10.15318 Q -9.97255,11.94788 -9.96762,13.96762 Q -9.98501,15.91667 -9.20888,17.78206 Q -8.4804,19.59241 -7.04817,21.01579 Q -5.68221,22.40392 -3.81444,23.1765 Q -2.01787,23.94506 0,23.93524 Q 1.94382,23.94666 3.81444,23.1765 Q 5.63517,22.45322 7.04817,21.01579 Q 8.42375,19.64587 9.20888,17.78206 Q 9.99058,15.9847 9.96762,13.96762 Q 9.97701,11.97119 9.20888,10.15318" />
+			<path stroke="7" cap="round" data="R -12,48 Q 0,48 0,36 K 0,24 K -12,48 O" />
+			<path stroke="7" cap="round" data="R 0,68 Q 0,52 12,52 K 0,68 O" />
+		</layer>
+	</glyph>
+</collection>
+
+<collection unicode="U+45" svg="false" colr="false" auto_generate="false" meta_name="">
+	<selected id="1"/>
+	<glyph id="1" left="-16" right="16" zero_width="false">
+		<layer name="Layer" visible="true">
+			<path stroke="7" cap="round" join="round" data="R 10,16 Q 10,4 0,4 K -10,4 Q -10,15.55 -10,48 C 3.33333,48 10,54.66667 10,68 C 10,50.66667 10,42 10,16 O" />
+		</layer>
+	</glyph>
+</collection>
+
+<collection unicode="U+46" svg="false" colr="false" auto_generate="false" meta_name="">
+	<selected id="1"/>
+	<glyph id="1" left="-16" right="16" zero_width="false">
+		<layer name="Layer" visible="true">
+			<path stroke="7" cap="round" join="round" data="R 12,4 Q 12,18 2,18 K -10,18 Q -10,29.55 -10,48 C 3.33333,48 10,54.66667 10,68 C 10.66667,46.66667 11,36 12,4 O" />
+		</layer>
+	</glyph>
+</collection>
+
+<collection unicode="U+47" svg="false" colr="false" auto_generate="false" meta_name="">
+	<selected id="0"/>
+	<glyph id="0" left="-28" right="28" zero_width="false">
+		<layer name="Layer" visible="true">
+		</layer>
+	</glyph>
+</collection>
+
+<collection unicode="U+48" svg="false" colr="false" auto_generate="false" meta_name="">
+	<selected id="1"/>
+	<glyph id="1" left="-28" right="28" zero_width="false">
+	</glyph>
+</collection>
+
+<collection unicode="U+49" svg="false" colr="false" auto_generate="false" meta_name="">
+	<selected id="1"/>
+	<glyph id="1" left="-28" right="28" zero_width="false">
+	</glyph>
+</collection>
+
+<collection unicode="U+4a" svg="false" colr="false" auto_generate="false" meta_name="">
+	<selected id="2"/>
+	<glyph id="2" left="-28" right="28" zero_width="false">
+	</glyph>
+</collection>
+
+<collection unicode="U+4b" svg="false" colr="false" auto_generate="false" meta_name="">
+	<selected id="1"/>
+	<glyph id="1" left="-28" right="28" zero_width="false">
+	</glyph>
+</collection>
+
+<collection unicode="U+4c" svg="false" colr="false" auto_generate="false" meta_name="">
+	<selected id="1"/>
+	<glyph id="1" left="-28" right="28" zero_width="false">
+	</glyph>
+</collection>
+
+<collection unicode="U+4d" svg="false" colr="false" auto_generate="false" meta_name="">
+	<selected id="1"/>
+	<glyph id="1" left="-28" right="28" zero_width="false">
+	</glyph>
+</collection>
+
+<collection unicode="U+4e" svg="false" colr="false" auto_generate="false" meta_name="">
+	<selected id="1"/>
+	<glyph id="1" left="-28" right="28" zero_width="false">
+	</glyph>
+</collection>
+
+<collection unicode="U+4f" svg="false" colr="false" auto_generate="false" meta_name="">
+	<selected id="1"/>
+	<glyph id="1" left="-28" right="28" zero_width="false">
+	</glyph>
+</collection>
+
+<collection unicode="U+50" svg="false" colr="false" auto_generate="false" meta_name="">
+	<selected id="1"/>
+	<glyph id="1" left="-28" right="28" zero_width="false">
+	</glyph>
+</collection>
+
+<collection unicode="U+51" svg="false" colr="false" auto_generate="false" meta_name="">
+	<selected id="1"/>
+	<glyph id="1" left="-28" right="28" zero_width="false">
+	</glyph>
+</collection>
+
+<collection unicode="U+52" svg="false" colr="false" auto_generate="false" meta_name="">
+	<selected id="1"/>
+	<glyph id="1" left="-28" right="28" zero_width="false">
+	</glyph>
+</collection>
+
+<collection unicode="U+53" svg="false" colr="false" auto_generate="false" meta_name="">
+	<selected id="1"/>
+	<glyph id="1" left="-28" right="28" zero_width="false">
+	</glyph>
+</collection>
+
+<collection unicode="U+54" svg="false" colr="false" auto_generate="false" meta_name="">
+	<selected id="1"/>
+	<glyph id="1" left="-28" right="28" zero_width="false">
+	</glyph>
+</collection>
+
+<collection unicode="U+55" svg="false" colr="false" auto_generate="false" meta_name="">
+	<selected id="1"/>
+	<glyph id="1" left="-28" right="28" zero_width="false">
+	</glyph>
+</collection>
+
+<collection unicode="U+56" svg="false" colr="false" auto_generate="false" meta_name="">
+	<selected id="1"/>
+	<glyph id="1" left="-28" right="28" zero_width="false">
+	</glyph>
+</collection>
+
+<collection unicode="U+57" svg="false" colr="false" auto_generate="false" meta_name="">
+	<selected id="1"/>
+	<glyph id="1" left="-28" right="28" zero_width="false">
+	</glyph>
+</collection>
+
+<collection unicode="U+58" svg="false" colr="false" auto_generate="false" meta_name="">
+	<selected id="1"/>
+	<glyph id="1" left="-28" right="28" zero_width="false">
+	</glyph>
+</collection>
+
+<collection unicode="U+59" svg="false" colr="false" auto_generate="false" meta_name="">
+	<selected id="1"/>
+	<glyph id="1" left="-28" right="28" zero_width="false">
+	</glyph>
+</collection>
+
+<collection unicode="U+5a" svg="false" colr="false" auto_generate="false" meta_name="">
+	<selected id="1"/>
+	<glyph id="1" left="-28" right="28" zero_width="false">
+	</glyph>
+</collection>
+
+<collection unicode="U+61" svg="false" colr="false" auto_generate="false" meta_name="">
+	<selected id="1"/>
+	<glyph id="1" left="-30" right="26" zero_width="false">
+		<layer name="Layer" visible="true">
+			<path stroke="7" cap="round" join="round" data="R -24,4 Q -12,4 -12,14 C -12,26.66667 -12,27 -12,46 Q -12,66 10,66 Q -1.33333,45.33333 -24,4 O" />
+			<path stroke="7" cap="round" data="R 19.26562,32.16205 Q 18.49369,30.33505 17.0916,28.9084 Q 15.72971,27.51612 13.83795,26.73438 Q 12.01792,26.00157 10,25.97096 Q 8.03819,25.95268 6.16205,26.73438 Q 4.34229,27.46812 2.9084,28.9084 Q 1.50852,30.28269 0.73438,32.16205 Q -0.03399,33.96782 -0.02904,36 Q -0.04653,37.96106 0.73438,39.83795 Q 1.46735,41.65945 2.9084,43.0916 Q 4.28278,44.48828 6.16205,45.26562 Q 7.96969,46.03891 10,46.02904 Q 11.9558,46.04052 13.83795,45.26562 Q 15.6699,44.53788 17.0916,43.0916 Q 18.47566,41.71323 19.26562,39.83795 Q 20.05214,38.02951 20.02904,36 Q 20.03848,33.99127 19.26562,32.16205" />
+			<path stroke="7" cap="round" data="R -2,36 K -10,36 Q -12,36 -2,36 O" />
+		</layer>
+	</glyph>
+</collection>
+
+<collection unicode="U+62" svg="false" colr="false" auto_generate="false" meta_name="">
+	<selected id="1"/>
+	<glyph id="1" left="-28" right="28" zero_width="false">
+		<layer name="Layer" visible="true">
+			<path stroke="7" cap="round" data="R -6,18 Q -5.98152,19.62294 -6.61048,21.06909 Q -7.24219,22.5687 -8.34898,23.67094 Q -9.48588,24.82749 -10.95083,25.40944 Q -12.45593,26.02911 -14.01993,26.01993 Q -15.6435,26.02782 -17.08902,25.40944 Q -18.59182,24.78783 -19.69087,23.67094 Q -20.84323,22.52569 -21.42937,21.06909 Q -22.05384,19.5682 -22.03985,18 Q -22.04382,16.37492 -21.42937,14.93091 Q -20.81031,13.42804 -19.69087,12.32906 Q -18.54423,11.1773 -17.08902,10.59056 Q -15.58873,9.96545 -14.01993,9.98007 Q -12.40625,10.00455 -10.95083,10.59056 Q -9.43804,11.21569 -8.34898,12.32906 Q -7.22777,13.4699 -6.61048,14.93091 Q -5.99244,16.39367 -6,18" />
+			<path stroke="7" cap="round" join="round" data="R -22,-16 Q 0,-16 0,0 Q 0,14 22,18 Q 0,24 0,36 Q -14,36 -14,26 Q -16.66667,12 -22,-16 O" />
+		</layer>
+	</glyph>
+</collection>
+
+<collection unicode="U+63" svg="false" colr="false" auto_generate="false" meta_name="">
+	<selected id="1"/>
+	<glyph id="1" left="-28" right="28" zero_width="false">
+	</glyph>
+</collection>
+
+<collection unicode="U+64" svg="false" colr="false" auto_generate="false" meta_name="">
+	<selected id="1"/>
+	<glyph id="1" left="-28" right="24" zero_width="false">
+		<layer name="Layer" visible="true">
+			<path stroke="7" cap="round" data="R -22.09215,4 Q -22.09215,36 3.90785,36 Q -4.75882,25.33333 -22.09215,4 O" />
+			<path stroke="7" cap="round" data="R 16.9273,44.60717 Q 15.84263,42.03997 13.8725,40.03534 Q 11.95887,38.07899 9.30068,36.98055 Q 6.7433,35.95085 3.90785,35.90785 Q 1.15123,35.88215 -1.48499,36.98055 Q -4.042,38.01155 -6.05681,40.03534 Q -8.02383,41.96641 -9.11161,44.60717 Q -10.19128,47.14451 -10.18431,50 Q -10.20889,52.75556 -9.11161,55.39283 Q -8.08168,57.95229 -6.05681,59.96466 Q -4.12562,61.92718 -1.48499,63.01945 Q 1.05499,64.10604 3.90785,64.09215 Q 6.65601,64.10829 9.30068,63.01945 Q 11.87482,61.99688 13.8725,59.96466 Q 15.81729,58.02786 16.9273,55.39283 Q 18.03246,52.85174 18,50 Q 18.01328,47.17746 16.9273,44.60717" />
+		</layer>
+	</glyph>
+</collection>
+
+<collection unicode="U+65" svg="false" colr="false" auto_generate="false" meta_name="">
+	<selected id="1"/>
+	<glyph id="1" left="-28" right="16" zero_width="false">
+		<layer name="Layer" visible="true">
+			<path stroke="7" cap="round" data="R -21.94745,52 Q -21.94745,36 -3.94745,36 Q -9.94745,41.33333 -21.94745,52 O" />
+			<path stroke="7" cap="round" data="R 7.09055,19.42791 Q 6.17096,17.25142 4.50067,15.55187 Q 2.87827,13.89327 0.62464,12.96199 Q -1.54353,12.08901 -3.94745,12.05255 Q -6.28454,12.03077 -8.51955,12.96199 Q -10.6874,13.83608 -12.39558,15.55187 Q -14.06324,17.18905 -14.98546,19.42791 Q -15.90081,21.57909 -15.89491,24 Q -15.91575,26.33619 -14.98546,28.57209 Q -14.11228,30.74202 -12.39558,32.44813 Q -10.7583,34.11197 -8.51955,35.03801 Q -6.36613,35.95922 -3.94745,35.94745 Q -1.61754,35.96113 0.62464,35.03801 Q 2.80702,34.17106 4.50067,32.44813 Q 6.14948,30.80609 7.09055,28.57209 Q 8.02752,26.41773 8,24 Q 8.01126,21.60702 7.09055,19.42791" />
+			<path stroke="7" cap="round" join="round" data="R -3.94745,12 Q -3.94745,2 10.05255,2 Q 10.05255,-16 -3.94745,-16 Q 8.05255,-6 -3.94745,12 O" />
+		</layer>
+	</glyph>
+</collection>
+
+<collection unicode="U+66" svg="false" colr="false" auto_generate="false" meta_name="">
+	<selected id="1"/>
+	<glyph id="1" left="-28" right="28" zero_width="false">
+	</glyph>
+</collection>
+
+<collection unicode="U+67" svg="false" colr="false" auto_generate="false" meta_name="">
+	<selected id="1"/>
+	<glyph id="1" left="-28" right="28" zero_width="false">
+		<layer name="Layer" visible="true">
+			<path stroke="7" cap="round" data="R 0,36 K 0,14 K 0,36 O" />
+			<path stroke="7" cap="round" data="R 16,14 K 16,36 K 16,14 O" />
+			<path stroke="7" cap="round" join="round" data="R -2,-16 Q 22,-16 22,4 C 14.66667,4 11,4 0,4 Q -22,4 -22,36 Q -15.33333,18.66667 -2,-16 O" />
+		</layer>
+	</glyph>
+</collection>
+
+<collection unicode="U+68" svg="false" colr="false" auto_generate="false" meta_name="">
+	<selected id="1"/>
+	<glyph id="1" left="-28" right="28" zero_width="false">
+	</glyph>
+</collection>
+
+<collection unicode="U+69" svg="false" colr="false" auto_generate="false" meta_name="">
+	<selected id="1"/>
+	<glyph id="1" left="-28" right="28" zero_width="false">
+		<layer name="Layer" visible="true">
+			<path stroke="7" cap="round" join="round" data="R 22,4 Q 22,36 0,36 Q -10,36 -22,36 Q 2,46 2,68 Q 8.66667,46.66667 22,4 O" />
+		</layer>
+	</glyph>
+</collection>
+
+<collection unicode="U+6a" svg="false" colr="false" auto_generate="false" meta_name="">
+	<selected id="1"/>
+	<glyph id="1" left="-28" right="28" zero_width="false">
+	</glyph>
+</collection>
+
+<collection unicode="U+6b" svg="false" colr="false" auto_generate="false" meta_name="">
+	<selected id="1"/>
+	<glyph id="1" left="-28" right="28" zero_width="false">
+		<layer name="Layer" visible="true">
+			<path stroke="7" cap="round" join="round" data="B 22,36 C 22,28 22,25.33333 22,20 Q 22,4 6,4 Q 0,4 -6,4 C -6,25.33333 -6,36 -6,68 Q 8,52 22,36 O" />
+			<path stroke="7" cap="round" join="round" data="R -22,68 K -22,22 Q -6,22 -6,4 Q -11.33333,25.33333 -22,68 O" />
+		</layer>
+	</glyph>
+</collection>
+
+<collection unicode="U+6c" svg="false" colr="false" auto_generate="false" meta_name="">
+	<selected id="1"/>
+	<glyph id="1" left="-20" right="24" zero_width="false">
+		<layer name="Layer" visible="true">
+			<path stroke="7" cap="round" data="R 16.78776,13.90566 Q 15.562,11.00452 13.33559,8.73913 Q 11.17303,6.52829 8.16906,5.28696 Q 5.27901,4.12332 2.07472,4.07472 Q -1.04048,4.04569 -4.01962,5.28696 Q -6.90925,6.45207 -9.18615,8.73913 Q -11.40905,10.92139 -12.63832,13.90566 Q -13.85843,16.77306 -13.85056,20 Q -13.87834,23.114 -12.63832,26.09434 Q -11.47442,28.98673 -9.18615,31.26087 Q -7.00375,33.47869 -4.01962,34.71304 Q -1.14924,35.94097 2.07472,35.92528 Q 5.18037,35.94352 8.16906,34.71304 Q 11.07805,33.55745 13.33559,31.26087 Q 15.53336,29.07214 16.78776,26.09434 Q 18.03669,23.22269 18,20 Q 18.015,16.8103 16.78776,13.90566" />
+		</layer>
+	</glyph>
+</collection>
+
+<collection unicode="U+6d" svg="false" colr="false" auto_generate="false" meta_name="">
+	<selected id="1"/>
+	<glyph id="1" left="-28" right="18" zero_width="false">
+		<layer name="Layer" visible="true">
+			<path stroke="7" cap="round" join="round" data="R -22,4 Q 2,4 2,24 C 2,28 2,30 2,36 Q 6,36 12,36 C 12,18.66667 12,10 12,-16 Q 0,34 -22,4 O" />
+		</layer>
+	</glyph>
+</collection>
+
+<collection unicode="U+6e" svg="false" colr="false" auto_generate="false" meta_name="">
+	<selected id="1"/>
+	<glyph id="1" left="-28" right="14" zero_width="false">
+		<layer name="Layer" visible="true">
+			<path stroke="7" cap="round" data="B -22,36 C -22,30 -22,28 -22,24 Q -22,4 -2,4 Q -9.33333,14.66667 -22,36 O" />
+			<path stroke="7" cap="round" data="R -2,48 K -2,18 K -2,48 O" />
+			<path stroke="7" cap="round" data="R 7.31274,54.14254 Q 6.53688,52.30624 5.12766,50.87234 Q 3.75885,49.47298 1.85746,48.68726 Q 0.02818,47.95073 -2,47.91997 Q -3.97179,47.90159 -5.85746,48.68726 Q -7.68647,49.42473 -9.12766,50.87234 Q -10.53466,52.25362 -11.31274,54.14254 Q -12.08502,55.95749 -12.08003,58 Q -12.09762,59.97103 -11.31274,61.85746 Q -10.57604,63.68822 -9.12766,65.12766 Q -7.74629,66.53144 -5.85746,67.31274 Q -4.04063,68.08996 -2,68.08003 Q -0.03426,68.09158 1.85746,67.31274 Q 3.69873,66.5813 5.12766,65.12766 Q 6.51875,63.74228 7.31274,61.85746 Q 8.10325,60.03983 8.08003,58 Q 8.08953,55.98105 7.31274,54.14254" />
+		</layer>
+	</glyph>
+</collection>
+
+<collection unicode="U+6f" svg="false" colr="false" auto_generate="false" meta_name="">
+	<selected id="1"/>
+	<glyph id="1" left="-28" right="28" zero_width="false">
+		<layer name="Layer" visible="true">
+			<path stroke="7" cap="round" data="R -22,38 Q -22,68 0,68 Q 22,68 22,38 Q 7.33333,38 -22,38 O" />
+			<path stroke="7" cap="round" data="R 0,4 K 0,48 K 0,4 O" />
+		</layer>
+	</glyph>
+</collection>
+
+<collection unicode="U+70" svg="false" colr="false" auto_generate="false" meta_name="">
+	<selected id="1"/>
+	<glyph id="1" left="-28" right="28" zero_width="false">
+	</glyph>
+</collection>
+
+<collection unicode="U+71" svg="false" colr="false" auto_generate="false" meta_name="">
+	<selected id="1"/>
+	<glyph id="1" left="-28" right="28" zero_width="false">
+	</glyph>
+</collection>
+
+<collection unicode="U+72" svg="false" colr="false" auto_generate="false" meta_name="">
+	<selected id="1"/>
+	<glyph id="1" left="-26" right="18" zero_width="false">
+		<layer name="Layer" visible="true">
+			<path stroke="7" cap="round" data="R -6,4 Q -20,4 -20,20 Q -20,36 -6,36 Q -6,25.33333 -6,4 O" />
+			<path stroke="7" cap="round" data="R -20,20 Q -11,20 -2,20 Q 12,20 12,36 Q 12,42 12,52 Q 12,36 -20,20 O" />
+		</layer>
+	</glyph>
+</collection>
+
+<collection unicode="U+73" svg="false" colr="false" auto_generate="false" meta_name="">
+	<selected id="1"/>
+	<glyph id="1" left="-28" right="28" zero_width="false">
+	</glyph>
+</collection>
+
+<collection unicode="U+74" svg="false" colr="false" auto_generate="false" meta_name="">
+	<selected id="1"/>
+	<glyph id="1" left="-28" right="8" zero_width="false">
+		<layer name="Layer" visible="true">
+			<path stroke="7" cap="round" join="round" data="R -22,54 Q -22,38 2,36 Q -22,32 -22,14 C -22,4 -22,-1 -22,-16 Q -22,19 -22,54 O" />
+		</layer>
+	</glyph>
+</collection>
+
+<collection unicode="U+75" svg="false" colr="false" auto_generate="false" meta_name="">
+	<selected id="1"/>
+	<glyph id="1" left="-28" right="16" zero_width="false">
+		<layer name="Layer" visible="true">
+			<path stroke="7" cap="round" data="R -10.38999,11.67626 Q -10.85737,10.57007 -11.70629,9.70629 Q -12.53086,8.86331 -13.67626,8.38999 Q -14.77822,7.9463 -16,7.92777 Q -17.18781,7.9167 -18.32374,8.38999 Q -19.42554,8.83424 -20.29371,9.70629 Q -21.14129,10.53837 -21.61001,11.67626 Q -22.07523,12.76959 -22.07223,14 Q -22.08282,15.18735 -21.61001,16.32374 Q -21.16622,17.4266 -20.29371,18.29371 Q -19.46157,19.13936 -18.32374,19.61001 Q -17.22928,20.07821 -16,20.07223 Q -14.81583,20.07918 -13.67626,19.61001 Q -12.56708,19.16939 -11.70629,18.29371 Q -10.86829,17.45916 -10.38999,16.32374 Q -9.91378,15.2288 -9.92777,14 Q -9.92205,12.78378 -10.38999,11.67626" />
+			<path stroke="7" cap="round" join="round" data="R 2,4 Q 2,36 -22,36 Q -22,42 -22,46 Q -18,46 -8,46 Q 10,46 10,66 Q 7.33333,45.33333 2,4 O" />
+			<path stroke="7" cap="round" data="R -8,14 K -2,14 Q -5,14 -8,14 O" />
+		</layer>
+	</glyph>
+</collection>
+
+<collection unicode="U+76" svg="false" colr="false" auto_generate="false" meta_name="">
+	<selected id="1"/>
+	<glyph id="1" left="-28" right="28" zero_width="false">
+	</glyph>
+</collection>
+
+<collection unicode="U+77" svg="false" colr="false" auto_generate="false" meta_name="">
+	<selected id="1"/>
+	<glyph id="1" left="-28" right="16" zero_width="false">
+		<layer name="Layer" visible="true">
+			<path stroke="7" cap="round" data="R 10.02904,36 Q 10.05214,38.02951 9.26562,39.83795 Q 8.47566,41.71323 7.0916,43.0916 Q 5.6699,44.53788 3.83795,45.26562 Q 1.9558,46.04052 0,46.02904 Q -2.03031,46.03891 -3.83795,45.26562 Q -5.71722,44.48828 -7.0916,43.0916 Q -8.53265,41.65945 -9.26562,39.83795 Q -10.04653,37.96106 -10.02904,36 Q -10.03399,33.96782 -9.26562,32.16205 Q -8.49148,30.28269 -7.0916,28.9084 Q -5.65771,27.46812 -3.83795,26.73438 Q -1.96181,25.95268 0,25.97096 Q 2.01792,26.00157 3.83795,26.73438 Q 5.72971,27.51612 7.0916,28.9084 Q 8.4937,30.33505 9.26562,32.16205 Q 10.03848,33.99127 10.02904,36" />
+			<path stroke="7" cap="round" join="round" data="R 0,4 Q -22,4 -22,30 Q -22,33 -22,36 C -18.66667,36 -17,36 -12,36 Q -6,20 0,4 O" />
+		</layer>
+	</glyph>
+</collection>
+
+<collection unicode="U+78" svg="false" colr="false" auto_generate="false" meta_name="">
+	<selected id="1"/>
+	<glyph id="1" left="-28" right="28" zero_width="false">
+	</glyph>
+</collection>
+
+<collection unicode="U+79" svg="false" colr="false" auto_generate="false" meta_name="">
+	<selected id="1"/>
+	<glyph id="1" left="-28" right="28" zero_width="false">
+		<layer name="Layer" visible="true">
+			<path stroke="7" cap="round" data="R 2,46 Q -4,46 -8,46 Q -22,46 -22,58 Q -14,54 2,46 O" />
+			<path stroke="7" cap="round" data="R -22,36 Q -10,36 2,36 Q 22,36 22,16 C 22,12 22,10 22,4 Q 0,20 -22,36 O" />
+		</layer>
+	</glyph>
+</collection>
+
+<collection unicode="U+7a" svg="false" colr="false" auto_generate="false" meta_name="">
+	<selected id="1"/>
+	<glyph id="1" left="-28" right="28" zero_width="false">
+		<layer name="Layer" visible="true">
+			<path stroke="7" cap="round" data="R 22,4 Q 22,36 6,36 Q -8,36 -8,14 Q 2,10.66667 22,4 O" />
+			<path stroke="7" cap="round" data="R 3.08195,-4.59029 Q 2.1587,-6.77545 0.48176,-8.48176 Q -1.1471,-10.14697 -3.40971,-11.08195 Q -5.58651,-11.95841 -8,-11.99502 Q -10.34639,-12.01689 -12.59029,-11.08195 Q -14.76678,-10.20438 -16.48176,-8.48176 Q -18.15606,-6.83807 -19.08195,-4.59029 Q -20.00095,-2.43055 -19.99502,0 Q -20.01595,2.34549 -19.08195,4.59029 Q -18.2053,6.76886 -16.48176,8.48176 Q -14.83796,10.15223 -12.59029,11.08195 Q -10.4283,12.00683 -8,11.99502 Q -5.66081,12.00875 -3.40971,11.08195 Q -1.21864,10.21156 0.48176,8.48176 Q 2.13713,6.83319 3.08195,4.59029 Q 4.02265,2.42735 3.99502,0 Q 4.00632,-2.4025 3.08195,-4.59029" />
+			<path stroke="7" cap="round" data="R -8,-12 Q -8,-26 -22,-26 Q -38,-26 -8,-12 O" />
+		</layer>
+	</glyph>
+</collection>
+
+<collection unicode="U+2010" svg="false" colr="false" auto_generate="false" meta_name="">
+	<selected id="1"/>
+	<glyph id="1" left="-28" right="28" zero_width="false">
+		<layer name="Layer" visible="true">
+			<path stroke="5" cap="round" join="round" data="R 0,26 Q -4,34 -14,36 Q -4,38 0,46 Q 4,38 12,36 Q 4,34 0,26" />
+			<path stroke="5" cap="round" data="R -14,36 K -22,36 K -14,36 O" />
+			<path stroke="5" cap="round" data="R 12,36 K 22,36 K 12,36 O" />
+		</layer>
+	</glyph>
+</collection>
+
+<collection unicode="U+2011" svg="false" colr="false" auto_generate="false" meta_name="">
+	<selected id="1"/>
+	<glyph id="1" left="-28" right="28" zero_width="false">
+		<layer name="Layer" visible="true">
+			<path stroke="5" cap="round" join="round" data="R 0,26 Q -4,34 -14,36 Q -4,38 0,46 Q 4,38 12,36 Q 4,34 0,26" />
+			<path stroke="5" cap="round" data="R -14,36 K -22,36 K -14,36 O" />
+			<path stroke="5" cap="round" data="R 12,36 K 22,36 K 12,36 O" />
+		</layer>
+	</glyph>
+</collection>
+
+<collection unicode="U+2012" svg="false" colr="false" auto_generate="false" meta_name="">
+	<selected id="1"/>
+	<glyph id="1" left="-34" right="34" zero_width="false">
+		<layer name="Layer" visible="true">
+			<path stroke="5" cap="round" join="round" data="R 0,26 Q -4,34 -14,36 Q -4,38 0,46 Q 4,38 12,36 Q 4,34 0,26" />
+			<path stroke="5" cap="round" data="R -14,36 K -28,36 K -14,36 O" />
+			<path stroke="5" cap="round" data="R 12,36 K 28,36 K 12,36 O" />
+		</layer>
+	</glyph>
+</collection>
+
+<collection unicode="U+2013" svg="false" colr="false" auto_generate="false" meta_name="">
+	<selected id="1"/>
+	<glyph id="1" left="-34" right="34" zero_width="false">
+		<layer name="Layer" visible="true">
+			<path stroke="5" cap="round" join="round" data="R 0,26 Q -4,34 -14,36 Q -4,38 0,46 Q 4,38 12,36 Q 4,34 0,26" />
+			<path stroke="5" cap="round" data="R -14,36 K -28,36 K -14,36 O" />
+			<path stroke="5" cap="round" data="R 12,36 K 28,36 K 12,36 O" />
+		</layer>
+	</glyph>
+</collection>
+
+<collection unicode="U+2014" svg="false" colr="false" auto_generate="false" meta_name="">
+	<selected id="1"/>
+	<glyph id="1" left="-34" right="34" zero_width="false">
+		<layer name="Layer" visible="true">
+			<path stroke="5" cap="round" join="round" data="R 0,26 Q -4,34 -14,36 Q -4,38 0,46 Q 4,38 12,36 Q 4,34 0,26" />
+			<path stroke="5" cap="round" data="R -14,36 K -28,36 K -14,36 O" />
+			<path stroke="5" cap="round" data="R 12,36 K 28,36 K 12,36 O" />
+		</layer>
+	</glyph>
+</collection>
+
+<collection unicode="U+2018" svg="false" colr="false" auto_generate="false" meta_name="">
+	<selected id="1"/>
+	<glyph id="1" left="-18" right="18" zero_width="false">
+		<layer name="Layer" visible="true">
+			<path stroke="5" cap="round" data="R 7.40944,56.93091 Q 6.79215,55.4699 5.67094,54.32906 Q 4.58188,53.21569 3.06909,52.59056 Q 1.61367,52.00455 0,51.98007 Q -1.56881,51.96545 -3.06909,52.59056 Q -4.5243,53.1773 -5.67094,54.32906 Q -6.79039,55.42804 -7.40944,56.93091 Q -8.02389,58.37492 -8.01993,60 Q -8.03392,61.5682 -7.40944,63.06909 Q -6.82331,64.52569 -5.67094,65.67094 Q -4.57189,66.78783 -3.06909,67.40944 Q -1.62358,68.02782 0,68.01993 Q 1.56399,68.02911 3.06909,67.40944 Q 4.53405,66.82749 5.67094,65.67094 Q 6.77773,64.5687 7.40944,63.06909 Q 8.0384,61.62294 8.01993,60 Q 8.02748,58.39367 7.40944,56.93091" />
+			<path stroke="5" cap="round" data="R 0,44 Q 0,32 8,32 Q 5.33333,36 0,44 O" />
+		</layer>
+	</glyph>
+</collection>
+
+<collection unicode="U+2019" svg="false" colr="false" auto_generate="false" meta_name="">
+	<selected id="1"/>
+	<glyph id="1" left="-18" right="18" zero_width="false">
+		<layer name="Layer" visible="true">
+			<path stroke="5" cap="round" data="R 7.40944,56.93091 Q 6.79215,55.4699 5.67094,54.32906 Q 4.58188,53.21569 3.06909,52.59056 Q 1.61367,52.02448 0,52 Q -1.56881,51.98538 -3.06909,52.59056 Q -4.5243,53.1773 -5.67094,54.32906 Q -6.79039,55.42804 -7.40944,56.93091 Q -8.02389,58.37492 -8.01993,60 Q -8.03392,61.5682 -7.40944,63.06909 Q -6.82331,64.52569 -5.67094,65.67094 Q -4.57189,66.78783 -3.06909,67.40944 Q -1.62358,68.02782 0,68.01993 Q 1.56399,68.02911 3.06909,67.40944 Q 4.53405,66.82749 5.67094,65.67094 Q 6.77773,64.5687 7.40944,63.06909 Q 8.0384,61.62294 8.01993,60 Q 8.02748,58.39367 7.40944,56.93091" />
+			<path stroke="5" cap="round" data="R 0,44 Q 0,32 -8,32 Q -5.33333,36 0,44 O" />
+		</layer>
+	</glyph>
+</collection>
+
+<collection unicode="U+201c" svg="false" colr="false" auto_generate="false" meta_name="">
+	<selected id="1"/>
+	<glyph id="1" left="-18" right="18" zero_width="false">
+		<layer name="Layer" visible="true">
+			<path stroke="5" cap="round" data="R 7.40944,56.93091 Q 6.79215,55.4699 5.67094,54.32906 Q 4.58188,53.21569 3.06909,52.59056 Q 1.61367,52.00455 0,51.98007 Q -1.56881,51.96545 -3.06909,52.59056 Q -4.5243,53.1773 -5.67094,54.32906 Q -6.79039,55.42804 -7.40944,56.93091 Q -8.02389,58.37492 -8.01993,60 Q -8.03392,61.5682 -7.40944,63.06909 Q -6.82331,64.52569 -5.67094,65.67094 Q -4.57189,66.78783 -3.06909,67.40944 Q -1.62358,68.02782 0,68.01993 Q 1.56399,68.02911 3.06909,67.40944 Q 4.53405,66.82749 5.67094,65.67094 Q 6.77773,64.5687 7.40944,63.06909 Q 8.0384,61.62294 8.01993,60 Q 8.02748,58.39367 7.40944,56.93091" />
+			<path stroke="5" cap="round" data="R 0,52 Q 0,40 8,40 Q 5.33333,44 0,52 O" />
+		</layer>
+	</glyph>
+</collection>
+
+<collection unicode="U+201d" svg="false" colr="false" auto_generate="false" meta_name="">
+	<selected id="1"/>
+	<glyph id="1" left="-18" right="18" zero_width="false">
+		<layer name="Layer" visible="true">
+			<path stroke="5" cap="round" data="R 7.40944,56.93091 Q 6.79215,55.4699 5.67094,54.32906 Q 4.58188,53.21569 3.06909,52.59056 Q 1.61367,52.00455 0,51.98007 Q -1.56881,51.96545 -3.06909,52.59056 Q -4.5243,53.1773 -5.67094,54.32906 Q -6.79039,55.42804 -7.40944,56.93091 Q -8.02389,58.37492 -8.01993,60 Q -8.03392,61.5682 -7.40944,63.06909 Q -6.82331,64.52569 -5.67094,65.67094 Q -4.57189,66.78783 -3.06909,67.40944 Q -1.62358,68.02782 0,68.01993 Q 1.56399,68.02911 3.06909,67.40944 Q 4.53405,66.82749 5.67094,65.67094 Q 6.77773,64.5687 7.40944,63.06909 Q 8.0384,61.62294 8.01993,60 Q 8.02748,58.39367 7.40944,56.93091" />
+			<path stroke="5" cap="round" data="R 0,52 Q 0,40 -8,40 Q 2,38 0,52 O" />
+		</layer>
+	</glyph>
+</collection>
+
+</font>

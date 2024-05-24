@@ -22,20 +22,7 @@
   "showShortcuts": true,
   "markdownOnly": false,
   "unresolvedLinks": false,
-  "recentFilesStore": [
-    {
-      "filepath": "Test Sentences.md",
-      "timestamp": 1716547023232
-    },
-    {
-      "filepath": "Syntax & Grammar.md",
-      "timestamp": 1716547022418
-    },
-    {
-      "filepath": "Tags.md",
-      "timestamp": 1716547021401
-    }
-  ],
+  "recentFilesStore": [],
   "starredFileStore": [],
   "searchDelay": 0,
   "replaceNewTabs": true,

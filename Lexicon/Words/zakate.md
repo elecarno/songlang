@@ -1,0 +1,6 @@
+#noun 
+
+mind
+
+***
+*der. [[zaraye]]*

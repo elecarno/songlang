@@ -1,7 +1,7 @@
 #docs 
 
 Word Order:
-- VOS (HI)
+- SOV (HF)
 - Adjective - Noun (HF)
 - Preposition - Noun (HI)
 - Possessee - Possessor (HI)
