@@ -1,0 +1,6 @@
+#noun 
+
+wind
+
+***
+*der. [[wynola]]*

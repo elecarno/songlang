@@ -21,3 +21,9 @@ It asked a crumb - of me.
 wynya imyu zaraye yaitano
 ade imyu maiko lin imyu raenre
 ade linte kitano.
+
+Ade - wynya imyu wytakalo - limeralo ezerano rume
+ade imyu wyzea, taka ito ezerano
+lint imyu aloando ikele abidyzo tazano
+lint kuandalo yentre lirie idale yato.
+

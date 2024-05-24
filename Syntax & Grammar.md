@@ -41,8 +41,15 @@ one *(s)*|[[alate]]
 [[nolyo]]<br>[[zykre]]<br>[[idalre]]|-awa|konetawa
 [[alate]]|-izo|konetizo
 
-
-
 ##### Valency
 - Passive: Aux verb "to be" / "[[ezere]]"
 - Active: Aux verb "to command" / "[[oredeze]]"
+
+(Aux verb is conjugated, affected verb is not.)
+
+##### Conditional
+- "-yzo" conjugation.
+
+#### Superlatives
+- "-alo" suffix.
+- This suffix can also be added to some nouns
