@@ -1,0 +1,5 @@
+#adjective 
+
+strange
+unusual
+wierd

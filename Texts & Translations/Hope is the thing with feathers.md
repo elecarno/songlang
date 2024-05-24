@@ -27,3 +27,7 @@ ade imyu wyzea, taka ito ezerano
 lint imyu aloando ikele abidyzo tazano
 lint kuandalo yentre lirie idale yato.
 
+Idale wynya imyu iukalo aiatan io rume
+ade alyn imyu kubulalo yala
+ka wyte zealote - linte
+inte kate - za io - ianano.
