@@ -22,7 +22,7 @@
 | z | **th**orn |θ|
 
 ### IPA
-|Labial|  Dental | Alveolar  |   |  Retroflex | Velar   |   |
+| |Labial|  Dental | Alveolar  |   |  Retroflex | Velar   | 
 |---|---|---|---|---|---|---|
 |Stop|b||t|d|k|g||
 |Fricative||z /θ/||||||
